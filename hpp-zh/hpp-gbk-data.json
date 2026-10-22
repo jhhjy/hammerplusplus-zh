@@ -1,0 +1,799 @@
+{
+  "note": "由 hpp-gbk.ps1 用 .NET Encoding.GetEncoding(936) 生成；hex 为 GBK 字节",
+  "generatedAt": "2026-10-19T20:11:31.7626224+08:00",
+  "count": 79,
+  "overflow": 0,
+  "unmappable": 0,
+  "entries": [
+    {
+      "fileOff": 9114832,
+      "maxUnits": 7,
+      "text": "Warning",
+      "zh": "警告",
+      "hex": "beafb8e6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9115388,
+      "maxUnits": 11,
+      "text": "Subdivision",
+      "zh": "细分",
+      "hex": "cfb8b7d6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9121142,
+      "maxUnits": 65,
+      "text": "Press OK and Hammer++ will attempt to recover any open documents.",
+      "zh": "按「确定」后，Hammer++ 将尝试恢复所有已打开的文档。",
+      "hex": "b0b4a1b8c8b7b6a8a1b9baf3a3ac48616d6d65722b2b20bdabb3a2cad4bbd6b8b4cbf9d3d0d2d1b4f2bfaab5c4cec4b5b5a1a3",
+      "bytes": 51,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9124896,
+      "maxUnits": 7,
+      "text": "Invalid",
+      "zh": "无效",
+      "hex": "ceded0a7",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9125376,
+      "maxUnits": 7,
+      "text": "Stretch",
+      "zh": "拉伸",
+      "hex": "c0adc9ec",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9125892,
+      "maxUnits": 7,
+      "text": "Gravity",
+      "zh": "重力",
+      "hex": "d6d8c1a6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9126460,
+      "maxUnits": 7,
+      "text": "Concave",
+      "zh": "凹面",
+      "hex": "b0bcc3e6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9130592,
+      "maxUnits": 31,
+      "text": "The website couldn't be opened.",
+      "zh": "无法打开该网站。",
+      "hex": "cedeb7a8b4f2bfaab8c3cdf8d5bea1a3",
+      "bytes": 16,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9133919,
+      "maxUnits": 76,
+      "text": "NOTE: This will not save the file with the new name; it will only rename it.",
+      "zh": "注意：此操作不会以新名称保存文件，只会重命名。",
+      "hex": "d7a2d2e2a3bab4cbb2d9d7f7b2bbbbe1d2d4d0c2c3fbb3c6b1a3b4e6cec4bcfea3acd6bbbbe1d6d8c3fcc3fba1a3",
+      "bytes": 46,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9136037,
+      "maxUnits": 82,
+      "text": "Check if the resource files in hammerplusplus/resource/hpp/ exist and are mounted.",
+      "zh": "请检查 hammerplusplus/resource/hpp/ 下的资源文件是否存在并已挂载。",
+      "hex": "c7ebbcecb2e92068616d6d6572706c7573706c75732f7265736f757263652f6870702f20cfc2b5c4d7cad4b4cec4bcfecac7b7f1b4e6d4dab2a2d2d1b9d2d4d8a1a3",
+      "bytes": 66,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9167336,
+      "maxUnits": 19,
+      "text": "Targetname to find:",
+      "zh": "要查找的目标名：",
+      "hex": "d2aab2e9d5d2b5c4c4bfb1eac3fba3ba",
+      "bytes": 16,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9168728,
+      "maxUnits": 83,
+      "text": "Recovered invalid solids will be highlighted in red (if this is enabled in Options)",
+      "zh": "被恢复的无效固体会以红色高亮显示（若已在选项中启用）",
+      "hex": "b1bbbbd6b8b4b5c4ceded0a7b9cccce5bbe1d2d4baecc9abb8dfc1c1cfd4cabea3a8c8f4d2d1d4dad1a1cfeed6d0c6f4d3c3a3a9",
+      "bytes": 52,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9168836,
+      "maxUnits": 27,
+      "text": "Postprocessing VisGroups...",
+      "zh": "后处理可见性分组...",
+      "hex": "baf3b4a6c0edbfc9bcfbd0d4b7d6d7e92e2e2e",
+      "bytes": 19,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9169128,
+      "maxUnits": 67,
+      "text": "Manifest was successfully created and has automatically been saved.",
+      "zh": "清单已创建并自动保存完成。",
+      "hex": "c7e5b5a5d2d1b4b4bda8b2a2d7d4b6afb1a3b4e6cdeab3c9a1a3",
+      "bytes": 26,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9169736,
+      "maxUnits": 15,
+      "text": "Clear Selection",
+      "zh": "清除选择",
+      "hex": "c7e5b3fdd1a1d4f1",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9169768,
+      "maxUnits": 39,
+      "text": "There are no eligible selected objects.",
+      "zh": "没有符合条件的选择对象。",
+      "hex": "c3bbd3d0b7fbbacfccf5bcfeb5c4d1a1d4f1b6d4cff3a1a3",
+      "bytes": 24,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9170004,
+      "maxUnits": 51,
+      "text": "You must select two solids or more solids to merge.",
+      "zh": "必须选择两个或更多固体才能合并。",
+      "hex": "b1d8d0ebd1a1d4f1c1bdb8f6bbf2b8fcb6e0b9cccce5b2c5c4dcbacfb2a2a1a3",
+      "bytes": 32,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9170276,
+      "maxUnits": 19,
+      "text": "Create Merged Solid",
+      "zh": "创建合并固体",
+      "hex": "b4b4bda8bacfb2a2b9cccce5",
+      "bytes": 12,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9170500,
+      "maxUnits": 7,
+      "text": "Ungroup",
+      "zh": "解组",
+      "hex": "bde2d7e9",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9172220,
+      "maxUnits": 27,
+      "text": "they are part of an entity.",
+      "zh": "它们是某个实体的一部分。",
+      "hex": "cbfcc3c7cac7c4b3b8f6cab5cce5b5c4d2bbb2bfb7d6a1a3",
+      "bytes": 24,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9175088,
+      "maxUnits": 51,
+      "text": "Do you want to create a new manifest from this map?",
+      "zh": "要从此地图新建清单吗？",
+      "hex": "d2aab4d3b4cbb5d8cdbcd0c2bda8c7e5b5a5c2f0a3bf",
+      "bytes": 22,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9175645,
+      "maxUnits": 50,
+      "text": "Configure it in Tools -> Options -> Build Programs",
+      "zh": "请在「工具 → 选项 → 编译程序」中配置",
+      "hex": "c7ebd4daa1b8b9a4bedf20a1fa20d1a1cfee20a1fa20b1e0d2ebb3ccd0f2a1b9d6d0c5e4d6c3",
+      "bytes": 38,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9176692,
+      "maxUnits": 15,
+      "text": "Smoothing Group",
+      "zh": "平滑组",
+      "hex": "c6bdbbacd7e9",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9192680,
+      "maxUnits": 7,
+      "text": "Unknown",
+      "zh": "未知",
+      "hex": "ceb4d6aa",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9207236,
+      "maxUnits": 11,
+      "text": "FATAL ERROR",
+      "zh": "致命错误",
+      "hex": "d6c2c3fcb4edcef3",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9224460,
+      "maxUnits": 23,
+      "text": "Color correction is OFF",
+      "zh": "颜色校正已关闭",
+      "hex": "d1d5c9abd0a3d5fdd2d1b9d8b1d5",
+      "bytes": 14,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9235160,
+      "maxUnits": 19,
+      "text": "Displacement Create",
+      "zh": "创建位移",
+      "hex": "b4b4bda8cebbd2c6",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9235224,
+      "maxUnits": 19,
+      "text": "Displacement Sewing",
+      "zh": "位移缝合",
+      "hex": "cebbd2c6b7ecbacf",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9236600,
+      "maxUnits": 15,
+      "text": "Justify texture",
+      "zh": "对齐贴图",
+      "hex": "b6d4c6ebccf9cdbc",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9243098,
+      "maxUnits": 37,
+      "text": "This warning will not be shown again.",
+      "zh": "此警告不再显示。",
+      "hex": "b4cbbeafb8e6b2bbd4d9cfd4cabea1a3",
+      "bytes": 16,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9245400,
+      "maxUnits": 63,
+      "text": "Are you sure you want to remove this sub map from the manifest?",
+      "zh": "确定要从清单中移除此子地图吗？",
+      "hex": "c8b7b6a8d2aab4d3c7e5b5a5d6d0d2c6b3fdb4cbd7d3b5d8cdbcc2f0a3bf",
+      "bytes": 30,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9247424,
+      "maxUnits": 7,
+      "text": "Similar",
+      "zh": "相似",
+      "hex": "cfe0cbc6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9247456,
+      "maxUnits": 63,
+      "text": "Similarities were found and placed into the \"Similar\" visgroup.",
+      "zh": "已找到相似面，并放入「相似」可见性分组。",
+      "hex": "d2d1d5d2b5bdcfe0cbc6c3e6a3acb2a2b7c5c8eba1b8cfe0cbc6a1b9bfc9bcfbd0d4b7d6d7e9a1a3",
+      "bytes": 40,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9253828,
+      "maxUnits": 11,
+      "text": "New Objects",
+      "zh": "新建对象",
+      "hex": "d0c2bda8b6d4cff3",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9258572,
+      "maxUnits": 11,
+      "text": "Point At...",
+      "zh": "指向...",
+      "hex": "d6b8cff22e2e2e",
+      "bytes": 7,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9258880,
+      "maxUnits": 111,
+      "text": "Failed to find relative path for instance VMF. Make sure your current VMF is not untitled, and check the paths.",
+      "zh": "无法为实例 VMF 找到相对路径，请确认当前 VMF 已命名并检查路径设置。",
+      "hex": "cedeb7a8ceaacab5c0fd20564d4620d5d2b5bdcfe0b6d4c2b7beb6a3acc7ebc8b7c8cfb5b1c7b020564d4620d2d1c3fcc3fbb2a2bcecb2e9c2b7beb6c9e8d6c3a1a3",
+      "bytes": 66,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9264100,
+      "maxUnits": 27,
+      "text": "Map Filename (no extension)",
+      "zh": "地图文件名（不含扩展名）",
+      "hex": "b5d8cdbccec4bcfec3fba3a8b2bbbaacc0a9d5b9c3fba3a9",
+      "bytes": 24,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9265440,
+      "maxUnits": 23,
+      "text": "Select Prefab Directory",
+      "zh": "选择预制体目录",
+      "hex": "d1a1d4f1d4a4d6c6cce5c4bfc2bc",
+      "bytes": 14,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9266048,
+      "maxUnits": 31,
+      "text": "Undo levels must be at least 5.",
+      "zh": "撤销层数至少为 5。",
+      "hex": "b3b7cffab2e3cafdd6c1c9d9ceaa2035a1a3",
+      "bytes": 18,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9269208,
+      "maxUnits": 103,
+      "text": "Enabling the microgrid might not be a good idea. Only use the microgrid if you know what you are doing!",
+      "zh": "启用微网格可能不是个好主意，只有在确知后果时才使用微网格！",
+      "hex": "c6f4d3c3cea2cdf8b8f1bfc9c4dcb2bbcac7b8f6bac3d6f7d2e2a3acd6bbd3d0d4dac8b7d6aabaf3b9fbcab1b2c5cab9d3c3cea2cdf8b8f1a3a1",
+      "bytes": 58,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9273320,
+      "maxUnits": 47,
+      "text": "No env_tonemap_controller selected to copy from",
+      "zh": "未选定可复制来源的 env_tonemap_controller",
+      "hex": "ceb4d1a1b6a8bfc9b8b4d6c6c0b4d4b4b5c420656e765f746f6e656d61705f636f6e74726f6c6c6572",
+      "bytes": 41,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9275176,
+      "maxUnits": 47,
+      "text": "No valid brushes or models found for conversion",
+      "zh": "没有找到可转换的有效固体或模型",
+      "hex": "c3bbd3d0d5d2b5bdbfc9d7aabbbbb5c4d3d0d0a7b9cccce5bbf2c4a3d0cd",
+      "bytes": 30,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9278776,
+      "maxUnits": 11,
+      "text": "Delete File",
+      "zh": "删除文件",
+      "hex": "c9beb3fdcec4bcfe",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9298516,
+      "maxUnits": 7,
+      "text": "Overlay",
+      "zh": "覆盖层",
+      "hex": "b8b2b8c7b2e3",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9309148,
+      "maxUnits": 11,
+      "text": "Modify Axis",
+      "zh": "修改轴",
+      "hex": "d0deb8c4d6e1",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9315840,
+      "maxUnits": 11,
+      "text": "Translation",
+      "zh": "平移",
+      "hex": "c6bdd2c6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9530892,
+      "maxUnits": 27,
+      "text": "Check subfolders for files?",
+      "zh": "检查子文件夹中的文件？",
+      "hex": "bcecb2e9d7d3cec4bcfebcd0d6d0b5c4cec4bcfea3bf",
+      "bytes": 22,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9535556,
+      "maxUnits": 7,
+      "text": "Unnamed",
+      "zh": "未命名",
+      "hex": "ceb4c3fcc3fb",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9606204,
+      "maxUnits": 7,
+      "text": "Windows",
+      "zh": "窗口",
+      "hex": "b4b0bfda",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9667844,
+      "maxUnits": 11,
+      "text": "Bind Editor",
+      "zh": "绑定编辑器",
+      "hex": "b0f3b6a8b1e0bcadc6f7",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9688565,
+      "maxUnits": 38,
+      "text": "  Does nothing to multiple selections.",
+      "zh": "  对多选对象不起作用。",
+      "hex": "2020b6d4b6e0d1a1b6d4cff3b2bbc6f0d7f7d3c3a1a3",
+      "bytes": 22,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9741752,
+      "maxUnits": 11,
+      "text": "Recent File",
+      "zh": "最近文件",
+      "hex": "d7eebdfccec4bcfe",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9969680,
+      "maxUnits": 11,
+      "text": "Stop Effect",
+      "zh": "停止特效",
+      "hex": "cda3d6b9ccd8d0a7",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9979984,
+      "maxUnits": 15,
+      "text": "Paste Reference",
+      "zh": "粘贴引用",
+      "hex": "d5b3ccf9d2fdd3c3",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9980144,
+      "maxUnits": 15,
+      "text": "Delete Elements",
+      "zh": "删除元素",
+      "hex": "c9beb3fdd4aacbd8",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9980940,
+      "maxUnits": 15,
+      "text": "Attribute Name:",
+      "zh": "属性名称：",
+      "hex": "caf4d0d4c3fbb3c6a3ba",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9980980,
+      "maxUnits": 11,
+      "text": "Add Item(s)",
+      "zh": "添加项",
+      "hex": "ccedbcd3cfee",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9981772,
+      "maxUnits": 19,
+      "text": "Rename Attribute...",
+      "zh": "重命名属性...",
+      "hex": "d6d8c3fcc3fbcaf4d0d42e2e2e",
+      "bytes": 13,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9986432,
+      "maxUnits": 7,
+      "text": "Compile",
+      "zh": "编译",
+      "hex": "b1e0d2eb",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9986468,
+      "maxUnits": 7,
+      "text": "Publish",
+      "zh": "发布",
+      "hex": "b7a2b2bc",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9986988,
+      "maxUnits": 11,
+      "text": "Source Type",
+      "zh": "源类型",
+      "hex": "d4b4c0e0d0cd",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9987076,
+      "maxUnits": 7,
+      "text": "Zoom In",
+      "zh": "放大",
+      "hex": "b7c5b4f3",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9990384,
+      "maxUnits": 11,
+      "text": "&Flat Shade",
+      "zh": "&平面着色",
+      "hex": "26c6bdc3e6d7c5c9ab",
+      "bytes": 9,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 9990488,
+      "maxUnits": 11,
+      "text": "&Gray Shade",
+      "zh": "&灰度着色",
+      "hex": "26bbd2b6c8d7c5c9ab",
+      "bytes": 9,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10003668,
+      "maxUnits": 7,
+      "text": "Refresh",
+      "zh": "刷新",
+      "hex": "cba2d0c2",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10011264,
+      "maxUnits": 19,
+      "text": "Set Attribute Value",
+      "zh": "设置属性值",
+      "hex": "c9e8d6c3caf4d0d4d6b5",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10013296,
+      "maxUnits": 11,
+      "text": "Choose file",
+      "zh": "选择文件",
+      "hex": "d1a1d4f1cec4bcfe",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10024512,
+      "maxUnits": 23,
+      "text": "Select Surface Property",
+      "zh": "选择表面属性",
+      "hex": "d1a1d4f1b1edc3e6caf4d0d4",
+      "bytes": 12,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10025536,
+      "maxUnits": 11,
+      "text": "Detail Type",
+      "zh": "细节类型",
+      "hex": "cfb8bddac0e0d0cd",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10053760,
+      "maxUnits": 11,
+      "text": "Preset Name",
+      "zh": "预设名称",
+      "hex": "d4a4c9e8c3fbb3c6",
+      "bytes": 8,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10054284,
+      "maxUnits": 19,
+      "text": "Import Preset Group",
+      "zh": "导入预设组",
+      "hex": "b5bcc8ebd4a4c9e8d7e9",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10054432,
+      "maxUnits": 23,
+      "text": "Remove Default Controls",
+      "zh": "移除默认控件",
+      "hex": "d2c6b3fdc4acc8cfbfd8bcfe",
+      "bytes": 12,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10055192,
+      "maxUnits": 19,
+      "text": "Rename Preset Group",
+      "zh": "重命名预设组",
+      "hex": "d6d8c3fcc3fbd4a4c9e8d7e9",
+      "bytes": 12,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10055292,
+      "maxUnits": 27,
+      "text": "Toggle Preset Group Sharing",
+      "zh": "切换预设组共享",
+      "hex": "c7d0bbbbd4a4c9e8d7e9b9b2cfed",
+      "bytes": 14,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10055496,
+      "maxUnits": 19,
+      "text": "Remove Preset Group",
+      "zh": "移除预设组",
+      "hex": "d2c6b3fdd4a4c9e8d7e9",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10055540,
+      "maxUnits": 19,
+      "text": "Change Preset Group",
+      "zh": "更改预设组",
+      "hex": "b8fcb8c4d4a4c9e8d7e9",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10080764,
+      "maxUnits": 19,
+      "text": "Undo Recoding Layer",
+      "zh": "撤销记录层",
+      "hex": "b3b7cffabcc7c2bcb2e3",
+      "bytes": 10,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10113216,
+      "maxUnits": 7,
+      "text": "Save As",
+      "zh": "另存为",
+      "hex": "c1edb4e6ceaa",
+      "bytes": 6,
+      "overflow": false,
+      "unmappable": false
+    },
+    {
+      "fileOff": 10115568,
+      "maxUnits": 11,
+      "text": "Description",
+      "zh": "描述",
+      "hex": "c3e8caf6",
+      "bytes": 4,
+      "overflow": false,
+      "unmappable": false
+    }
+  ]
+}
